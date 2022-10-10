@@ -1,3 +1,9 @@
+# Local files to be ignored as necessary
+*.ipynb
+*.csv
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
