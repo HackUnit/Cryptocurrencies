@@ -11,12 +11,14 @@ The _Cryptocurrency_ data was not ideal, so it was processed with machine learni
 Following are the rendered data visualizations, including a graph used to find the best value for `k`:
 
 ![3D-cryptocurrency](Resources/3D_crypto.png)
-<br><sub>3D-cryptocurrency</sub>
+<br><sub>3D Render of all Tradable Cryptocurrency by Class</sub>
 <br>
-<br>
+
+
 ![Scatter-Plot](Resources/scatter-plot.png)
-<br><sub>Scatter-Plot</br>
+<br><sub>Scatter-Plot of Cryptocurrency Supply and Total Mined</br>
 <br>
+
 
 ![Elbow Curve to Find the Best Value for 'k'](Resources/elbow_curve.png)
 <br><sub>Elbow Curve to Find the Best Value for 'k'</sub>
