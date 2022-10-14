@@ -13,7 +13,7 @@ Following are the rendered data visualizations, including a graph used to find t
 ![3D-cryptocurrency](Resources/3D_crypto.png)
 <br><sub>3D-cryptocurrency</sub>
 <br>
-
+<br>
 ![Scatter-Plot](Resources/scatter-plot.png)
 <br><sub>Scatter-Plot</br>
 <br>
