@@ -13,7 +13,8 @@ Following are the rendered data visualizations, including a graph used to find t
 ![3D-cryptocurrency](Resources/3D_crypto.png)
 <br><sub>3D Render of all Tradable Cryptocurrency by Class</sub>
 <br>
-
+<br>
+<br>
 
 ![Scatter-Plot](Resources/scatter-plot.png)
 <br><sub>Scatter-Plot of Cryptocurrency Supply and Total Mined</br>
